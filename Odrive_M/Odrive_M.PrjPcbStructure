@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=STM32F405.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=STM32F405.SchDoc|Designator=U_AuxHalf|SchDesignator=U_AuxHalf|FileName=AuxHalf.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=AuxHalf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32F405.SchDoc|Designator=U_DRV8301_NoPower|SchDesignator=U_DRV8301_NoPower|FileName=DRV8301_NoPower.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DRV8301_NoPower.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=STM32F405.SchDoc|Designator=U_DRV8301_Power|SchDesignator=U_DRV8301_Power|FileName=DRV8301_Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=DRV8301_Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

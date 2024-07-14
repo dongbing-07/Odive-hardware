@@ -1,0 +1,19 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=AuxHalf.SchDoc
+UniqueIDPath0=\CWFRGYAA
+SheetNumber0=1
+DocumentName1=DRV8301_NoPower.SchDoc
+UniqueIDPath1=\BAKTEBMO
+SheetNumber1=2
+DocumentName2=DRV8301_Power.SchDoc
+UniqueIDPath2=\ZZPIRARY
+SheetNumber2=3
+DocumentName3=STM32F405.SchDoc
+UniqueIDPath3=
+SheetNumber3=4
+
+
